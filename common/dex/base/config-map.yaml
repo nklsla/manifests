@@ -22,6 +22,8 @@ data:
       hashFromEnv: DEX_USER_PASSWORD
       username: user
       userID: "15841185641784"
+    - email: niklas@homelab.se
+      hash: $2y$12$cPRGRJ.n8zha6G3FRPUVJepw8VvMoExZTfv3h.qenUhAFrYVH.tde
     staticClients:
     # https://github.com/dexidp/dex/pull/1664
     - idEnv: OIDC_CLIENT_ID
